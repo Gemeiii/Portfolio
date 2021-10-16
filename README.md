@@ -8,10 +8,11 @@ Dashboard: [link](https://gemeixli.shinyapps.io/shinyy/)
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/data-viz.png" height="400" /> -->
 
 ### Project 2: Text mining
+[link](https://github.com/Gemeiii/text-mining)
 
-You can use the [editor on GitHub](https://github.com/Gemeiii/gemei.github.io./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-	A comparison of the work from Mark Twain, Leo Tolstoy and Charles Dickens, and find which two authors are more alike.
+-	Discover how sentiment changes in Victor Hugo’s Les Miserables and Charles Dickens’ A Tale of Two Cities.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
