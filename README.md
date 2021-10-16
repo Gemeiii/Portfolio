@@ -1,14 +1,13 @@
-## Project 1: Yelp review info for seven states
+### Project 1: Yelp review info for seven states
 
 Dashboard: [link](https://gemeixli.shinyapps.io/shinyy/)
 
-- description 1
-- description 2
+- This is an interactive dashboard where user can select the star rating and location (seven states) to visualize Yelp review info.
 
 ![](Yelp shiny app.png)
 <!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/data-viz.png" height="400" /> -->
 
-## Welcome to GitHub Pages
+### Project 2: Text mining
 
 You can use the [editor on GitHub](https://github.com/Gemeiii/gemei.github.io./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -33,7 +32,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](https://gemeixli.shinyapps.io/shinyy/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
