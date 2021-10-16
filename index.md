@@ -1,3 +1,13 @@
+## Project 1: Yelp review info for seven states
+
+Dashboard: [link](https://gemeixli.shinyapps.io/shinyy/)
+
+- description 1
+- description 2
+
+![](Yelp shiny app.png)
+<!-- <img src="https://github.com/ddong63/Portfolio/blob/28667bafeba1050dd874dc1c29ecfff0de7ccd22/pics/data-viz.png" height="400" /> -->
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Gemeiii/gemei.github.io./edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
