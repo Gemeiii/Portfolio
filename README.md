@@ -16,5 +16,6 @@ Dashboard: [link](https://gemeixli.shinyapps.io/shinyy/)
 ### Project 3: Machine learning project
 [link](https://github.com/Gemeiii/Machine-learning-project)
 
-- This project used a wine dataset to see which chemicals were important in predicting the quality of wine using multiple methods. - These methods include knn, tree, logistic regression(ordinal), lasso, and linear regression.
+- This project used a wine dataset to see which chemicals were important in predicting the quality of wine using multiple methods. 
+- These methods include knn, tree, logistic regression(ordinal), lasso, and linear regression.
 
